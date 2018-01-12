@@ -5,6 +5,7 @@ It is an online chatroom project using Node.JS and Socket.IO
 
 * This repository is for a online chatroom, We Chat Here.
 * [We Chat Here](http://ec2-18-220-102-185.us-east-2.compute.amazonaws.com:3456/client.html)
+* Note: This link cannot work until I start it on my own server. So you can clone this repo to your own local computer and start it on your own computer if you wish to see how it runs.
 
 ### We Chat Here ###
 
